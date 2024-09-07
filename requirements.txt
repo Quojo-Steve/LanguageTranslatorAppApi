@@ -1,5 +1,6 @@
-Flask==2.3.2
 deep-translator==1.10.1
 SpeechRecognition==3.8.1
 Flasgger==0.9.5
 Werkzeug==2.3.7
+Flask==2.2.5
+
